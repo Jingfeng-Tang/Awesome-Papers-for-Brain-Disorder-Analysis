@@ -1,5 +1,13 @@
 # Awesome-Papers-for-Brain-Disorder-Analysis
 
+## ✨✨✨ BOLD and PCC
+### 2024
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
+
+
+
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
 | [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | -- |
