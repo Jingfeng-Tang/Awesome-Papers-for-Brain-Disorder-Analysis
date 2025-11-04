@@ -1,5 +1,12 @@
 # Awesome-Papers-for-Brain-Disorder-Analysis
 
+## ✨✨✨ Pretrained Model
+### 2024
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [BrainMass: Advancing Brain Network Analysis for Diagnosis With Large-Scale Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10557697) | BrainMass | TMI 2024 | [code](https://github.com/podismine/BrainMass) | MIM+BYOL |
+
+
 ## ✨✨✨ BOLD and PCC
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
