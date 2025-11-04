@@ -1,4 +1,4 @@
-# Awesome-Papers-for-Graph-Representation-Learning
+# Awesome-Papers-for-Brain-Disorder-Analysis
 
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
