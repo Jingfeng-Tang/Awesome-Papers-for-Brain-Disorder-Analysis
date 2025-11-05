@@ -1,7 +1,7 @@
 # Awesome-Papers-for-Brain-Disorder-Analysis
 
 ## ✨✨✨ 生成脑网络
-### 2024
+### 2025
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
 | [BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis](https://papers.miccai.org/miccai-2025/paper/4637_paper.pdf) | BiSCoT | MICAAI 2025 | [code](https://github.com/zijianch/biscot) | 利用profile学习稀疏的脑网络 |
@@ -15,11 +15,17 @@
 
 
 ## ✨✨✨ BOLD and PCC
+
+### 2025
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
+
 ### 2024
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
-| [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
+
 
 ## ✨✨✨ PCC
 ### 2024
@@ -29,7 +35,7 @@
 
 
 ## ✨✨✨ 图
-### 2024
+### 2021
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
 | [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
