@@ -2,14 +2,14 @@
 
 ## ✨✨✨ 生成脑网络
 ### 2025
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis](https://papers.miccai.org/miccai-2025/paper/4637_paper.pdf) | BiSCoT | MICAAI 2025 | [code](https://github.com/zijianch/biscot) | 利用profile学习稀疏的脑网络 |
 
 
 ## ✨✨✨ Pretrained Model
 ### 2024
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [BrainMass: Advancing Brain Network Analysis for Diagnosis With Large-Scale Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10557697) | BrainMass | TMI 2024 | [code](https://github.com/podismine/BrainMass) | dataaug：随机丢弃时间点bold，MIM+BYOL |
 
@@ -17,31 +17,31 @@
 ## ✨✨✨ BOLD and PCC
 
 ### 2025
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis](https://webdocs.cs.ualberta.ca/~zaiane/postscript/MICCAI25-Paper-1562-BrainPrompt.pdf) | BrainPrompt | MICAAI 2025 | [code](https://github.com/zliuzeng/BrainPrompt) | prompt |
 
 ### 2024
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
 
 
 ## ✨✨✨ PCC
 ### 2024
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | 多模板 |
 
 
 ## ✨✨✨ 图
 ### 2021
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
 
 
-| Title | Abbreviation | Venue | Code | aaa |
+| Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [Prototype Learning of Inter-network Connectivity for ASD Diagnosis and Personalized Analysis](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_32) | PL-FC | MICAAI 2022 | [code](https://github.com/ku-milab/PL-FC) | -- |
 | [Knowledge-Aware Multisite Adaptive Graph Transformer for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10663452) | -- | TMI 2025 | -- | no-image feature |
