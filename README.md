@@ -38,6 +38,10 @@
 
 
 ## ✨✨✨ PCC
+### 2025
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
+| [MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis](https://papers.miccai.org/miccai-2025/paper/0646_paper.pdf) | MvHo-IB | MICAAI 2025 | [code](https://github.com/zky04/MvHo-IB) | 信息瓶颈 |
 ### 2024
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
