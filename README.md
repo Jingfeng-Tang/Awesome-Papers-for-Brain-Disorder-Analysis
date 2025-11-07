@@ -16,6 +16,11 @@
 |-----|-----|-----|-----|-----|
 | [BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis](https://papers.miccai.org/miccai-2025/paper/4637_paper.pdf) | BiSCoT | MICAAI 2025 | [code](https://github.com/zijianch/biscot) | 利用profile学习稀疏的脑网络 |
 
+### 2022
+| Title | Abbreviation | Venue | Code | idea |
+|-----|-----|-----|-----|-----|
+| [FBNetGen: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation](https://arxiv.org/pdf/2205.12465) | FBNetGen | MIDL 2022 | [code](https://github.com/Wayfear/FBNETGEN) | bold生成脑网络 |
+
 
 ## ✨✨✨ Pretrained Model
 ### 2024
@@ -36,6 +41,7 @@
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [Multi-Scale Spatial–Temporal Attention Networks for Functional Connectome Classification](https://ieeexplore.ieee.org/document/10643532/) | MSSTAN | TMI 2024 | [code](https://github.com/LIST-KONG/MSSTAN) | 多尺度空间，时间hash注意力 |
+
 
 
 ## ✨✨✨ BOLD
