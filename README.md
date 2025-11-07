@@ -53,6 +53,7 @@
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10294288) | MGCA-RAFFNet | TMI 2024 | [code](https://github.com/mylbuaa/MGCA-RAFFNet) | 多模板 |
+| [GBT Geometric-oriented Brain Transformer for Autism Diagnosis](https://papers.miccai.org/miccai-2024/paper/2778_paper.pdf) | GBT | MICAAI 2024 | [code](https://github.com/CUHK-AIM-Group/GBT) | transformer rank 主成分 |
 ### 2023
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
@@ -68,12 +69,12 @@
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
 | [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699) | graphtransformer | AAAI 2021 | [code](https://github.com/graphdeeplearning/graphtransformer) | edge feature |
-
+| [Do Transformers Really Perform Bad for Graph Representation](https://arxiv.org/pdf/2106.05234) | Graphormer | NeurIPS 2021 | [code](https://github.com/Microsoft/Graphormer) | -- |
 
 | Title | Abbreviation | Venue | Code | idea |
 |-----|-----|-----|-----|-----|
-| [Do Transformers Really Perform Bad for Graph Representation](https://arxiv.org/pdf/2106.05234) | Graphormer | NeurIPS 2021 | [code](https://github.com/Microsoft/Graphormer) | -- |
-| [GBT Geometric-oriented Brain Transformer for Autism Diagnosis](https://papers.miccai.org/miccai-2024/paper/2778_paper.pdf) | GBT | MICAAI 2024 | [code](https://github.com/CUHK-AIM-Group/GBT) | transformer rank 主成分 |
+
+
 | [BRAIN NETWORK TRANSFORMER](https://arxiv.org/pdf/2210.06681) | BNT | NeurIPS 2022 | [code](https://github.com/Wayfear/BrainNetworkTransformer) | transformer concat_readout |
 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902) | GCL | NeurIPS 2020 | [code](https://github.com/Shen-Lab/GraphCL) | 图对比学习，数据增强（子图best） |
 | [BrainUSL: Unsupervised Graph Structure Learning for Functional Brain Network Analysis](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_20) | BrainUSL | MICAAI 2023 | [code](https://github.com/IntelliDAL/Graph/tree/main/BrainUSL) | 图 |
